@@ -1,5 +1,7 @@
 {
   "build": {
-    "outputDirectory": "dist"
+    "config": {
+      "outputDirectory": "dist"
+    }
   }
 }
